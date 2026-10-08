@@ -17,6 +17,10 @@
     },
     "./package.json": "./package.json"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurelhuyag/selector-observer.git"
+  },
   "files": [
     "dist",
     "src",
